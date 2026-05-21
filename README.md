@@ -2,11 +2,11 @@
 
 **M.Eng. CS (Intelligent Systems) · Building at the intersection of ML research and real-world systems**
 
-📍 Montréal, QC &nbsp;|&nbsp; ☁️ AWS AI Practitioner (in progress)
+📍 Montréal, QC &nbsp;|&nbsp; ☁️ AWS ML Engineer Associate (in progress)
 
 ---
 
-Master's student in Intelligent Systems at Polytechnique Montréal with a background in Neuroscience and a focus on applied ML. I enjoy going from a research paper to a working implementation — and making the results explainable to the people who need them.
+Master's student in Intelligent Systems at Polytechnique Montréal with a background in Neuroscience and a focus on applied ML. I enjoy going from a research paper to a working implementation and making the results explainable to the people who need them.
 
 Previously: production forecasting optimization at **Artelys Canada**, neural decoding research at **CoCoLab (UdeM)**.
 
@@ -80,7 +80,7 @@ Monte Carlo Tree Search agent for the board game Divercité, implementing UCB1 s
 ## 📌 Currently
 
 - 🎓 Finishing my M.Eng. at Polytechnique Montréal
-- 📜 Reviewing for the **AWS AI Practitioner** certification exam
+- 📜 Reviewing for the **AWS ML Engineer Associate** certification exam
 - 🔨 Building and polishing projects
 - 🏃 Training for a marathon
 
