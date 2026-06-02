@@ -88,6 +88,7 @@ Monte Carlo Tree Search agent for the board game Divercité, implementing UCB1 s
 
 ## 📬 Get in touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://anisabd.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anis-abd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anisjjo@gmail.com)
 
