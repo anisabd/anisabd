@@ -95,5 +95,5 @@ Monte Carlo Tree Search agent for the board game Divercité, implementing UCB1 s
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anis's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anisabd&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anis's GitHub stats" />
 </p>
