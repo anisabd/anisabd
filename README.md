@@ -68,12 +68,12 @@ Replication and exploration of the QUASAR retrieval method applied to temporal q
 
 ---
 
-### ♟️ [Divercité — MCTS Adversarial Agent](https://github.com/anisabd/INF8175_projet)
-> Game AI · Search Algorithms
+### 📈 [FinSentiment — Financial Sentiment Analysis](https://github.com/anisabd/finsentiment)
+> Fine-tuning · NLP · FinTech
 
-Monte Carlo Tree Search agent for the board game Divercité, implementing UCB1 selection, rollout policies, and tree expansion strategies for adversarial decision-making.
+Fine-tuned DeBERTa-v3-base on a combined financial sentiment corpus (Financial PhraseBank + Twitter Financial News), achieving 0.862 macro-F1 — a +14.5 point lift over zero-shot FinBERT. Custom weighted trainer combining class-weighted cross-entropy and label smoothing.
 
-`MCTS` `Game AI` `Python`
+`DeBERTa` `Huggingface` `FinBERT` `Python`
 
 ---
 
